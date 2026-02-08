@@ -1,4 +1,4 @@
-Research Document: Development of Interactive Cyber Threat Visualization Dashboard
+  Project Title : Development of Interactive Cyber Threat Visualization Dashboard
 1. Introduction
 - Cybersecurity threats are increasing in scale and complexity, requiring real-time monitoring and proactive defense.
 - Traditional dashboards often lack interactivity and deep analytical capabilities.
@@ -51,4 +51,5 @@ Module 4: Dashboard Integration
 - Expansion to IoT and cloud-specific threat landscapes.
 9. Conclusion
 This project bridges the gap between raw cyber incident data and actionable intelligence. By combining AI/ML models with interactive visualization, it empowers analysts to detect, prioritize, and respond to threats more effectively.
+
 

@@ -49,7 +49,6 @@ Module 4: Dashboard Integration
 - Predictive modeling for attack likelihood.
 - AI-driven automated mitigation recommendations.
 - Expansion to IoT and cloud-specific threat landscapes.
-9. Conclusion
-This project bridges the gap between raw cyber incident data and actionable intelligence. By combining AI/ML models with interactive visualization, it empowers analysts to detect, prioritize, and respond to threats more effectively.
+9.
 
 
